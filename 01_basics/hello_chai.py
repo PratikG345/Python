@@ -1,6 +1,7 @@
 # First Program
 print("Hello World")
 print("Pratik")
+print("Hello Python")
 
 def chai(n):
     print(n)
