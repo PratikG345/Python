@@ -1,0 +1,5 @@
+>>> repr('Chai')
+"'Chai'"
+>>> str('Chai')
+'Chai'
+>>> print('Chai')
